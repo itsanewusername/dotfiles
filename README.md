@@ -29,7 +29,7 @@ You can find the Hyprland Installation instructions here: https://wiki.hyprland.
 Recommended is to install the Hyprland Desktop Profile from archinstall first.
 
 ```shell
-bash <(curl -s https://raw.githubusercontent.com/mylinuxforwork/dotfiles/main/setup-arch.sh)
+bash <(curl -s https://raw.githubusercontent.com/itsanewusername/dotfiles/main/setup-arch.sh)
 ```
 
 YouTube Video https://youtu.be/sVFnd5LAYAc
