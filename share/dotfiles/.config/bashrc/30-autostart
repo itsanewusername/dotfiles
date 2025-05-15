@@ -6,7 +6,7 @@
 # Fastfetch
 # -----------------------------------------------------
 if [[ $(tty) == *"pts"* ]]; then
-    fastfetch --config examples/13
+    fastfetch --config examples/13  --kitty-direct /share/kitty_logo/porsche-logo-1715336689242.png
 else
     echo
     if [ -f /bin/hyprctl ]; then
