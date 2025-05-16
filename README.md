@@ -1,5 +1,5 @@
 
-![image]("share/wallpapers/green-porsche-911-gt3-rs-7k-3840x2160.jpg")
+![image](share/wallpapers/green-porsche-911-gt3-rs-7k-3840x2160.jpg)
 
 For Arch: 
 ```shell
